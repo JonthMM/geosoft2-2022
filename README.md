@@ -1,6 +1,6 @@
 # Geosoftware II handout repository (WiSe 2022/23)
 
-**Web-Tool for the interactive training sample collection for spatial prediction models**
+**Web-Tool for interactive training sample collection for spatial prediction models**
 
 Teachers: [@edzer](http://github.com/edzer/), [@DaChro](https://github.com/DaChro)
 
