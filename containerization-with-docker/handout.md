@@ -20,7 +20,7 @@ Docker - why and when?
 - Bessere und erleichterte Entwicklung 
     - Unabhängigkeit durch Container sowohl von Laufzeit- aber auch Entwicklungsumgebung gewährleistet
     - Mehrere Anwendungen parallel erstellen ohne gegenseitige Störungen
-    - Einfacheres, Systemunabhängiges Testen von Abläufen und Funktionalitäten
+    - Einfacheres, systemunabhängiges Testen von Abläufen und Funktionalitäten
     - Gute Funktionalität im Zusammenhang mit Microservices
     - Ein erstellter Container kann immer wieder genau so wie er ist über all genutzt werden (reproducible research)
 - Benutzung über Desktop Anwendung "Docker Desktop"
@@ -34,7 +34,7 @@ Docker - why and when?
 - Ein Container ist Software, welche mit dem gesamten Code und allen Abhängigkeiten in einer standardisierten Einheit verpackt wird um so bessere Entwicklung, Einsatz und Verteilung dieser zu ermöglichen
 - Unterstützt Schnelligkeit und Zuverlässigkeit
 - Unabhängig von Entwicklungs- und Laufzeitumgebung verhält sich containerisierte Software immer gleich
-- Im vergleich zu Hardware oder Virtuellen Umgebungen Ressourcensparend
+- Im Vergleich zu Hardware oder virtuellen Umgebungen ressourcensparend
 - Einfacherere Einteilung der Benutzung - nur die Container die wirklich gebraucht werden
 - Laufen mehrere Container gleicheitig, passiert dies unabhängig voneinander, also ohne Komplikationen untereinander
 - Deutlich einfacherer Portierung der gewünschten Software möglich
@@ -87,7 +87,7 @@ Docker - How?
    - USER: Nutzer und Gruppenzugehörigkeit wechseln
    - COPY: Dateien und Verzeichnisse in das Image kopieren
    - RUN: Befehl im Image ausführen
-   - 
+   - etc.
 
 ### Wichtige Docker Befehle (Build, run, rm)
 
