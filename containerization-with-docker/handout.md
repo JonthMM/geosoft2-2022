@@ -1,7 +1,6 @@
 @maschroder @JonthMM
 
-Docker
-------
+Docker:
 Why? When? How?; usage in computer science (reproducible research)...
 =====
 
@@ -49,10 +48,11 @@ Docker - why and when?
   
 - Ein Image ist eine alleinstehend ausführbare Datei, die alles Nötige wie Code, Laufzeitumgebung, Bibliotheken etc. enthält
 - Es ist eine (rein) lesbare Schablone mit Anweisungen zur Erstellung eines Containers
-- Um ein Image zu erstellen, wird ein Dockerfile mit einfacher Syntax über Anweisungen zum Erstellen und zur Ausführung des Images angefertigt
+- Um ein Image zu erstellen, wird ein 
+mit einfacher Syntax über Anweisungen zum Erstellen und zur Ausführung des Images angefertigt
 - Container ist die ausführbare Instanz eines Images
 
-Informationsfluss im Format: Dockerfile -> Dockerfile -> Docker-Image -> Docker-Container
+Informationsfluss im Format: Dockerfile -> Docker-Image -> Docker-Container
 
 ### Dockerhub
 
