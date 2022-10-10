@@ -16,7 +16,7 @@ Docker - why and when?
 - Verwendung für Entwicklung, Test, Ausführung und Vertrieb von Anwendungen
 - Kapselung von Anwendungen in Containern
 - Kostenlose Benutzung möglich
-    - Erweiterungen als Abo möglich
+    - Erweiterungen als Abo in mehreren Stufen möglich
 - Bessere und erleichterte Entwicklung 
     - Unabhängigkeit durch Container sowohl von Laufzeit- aber auch Entwicklungsumgebung gewährleistet
     - Mehrere Anwendungen parallel erstellen ohne gegenseitige Störungen
