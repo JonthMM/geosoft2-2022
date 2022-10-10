@@ -36,12 +36,13 @@ Docker - why and when?
 - Unabhängig von Entwicklungs- und Laufzeitumgebung verhält sich containerisierte Software immer gleich
 - Im vergleich zu Hardware oder Virtuellen Umgebungen Ressourcensparend
 - Einfacherere Einteilung der Benutzung - nur die Container die wirklich gebraucht werden
+- Laufen mehrere Container gleicheitig, passiert dies unabhängig voneinander, also ohne Komplikationen untereinander
 - Deutlich einfacherer Portierung der gewünschten Software möglich
 
 ### Docker Container & Images
 
 - Container, die auf Docker-Engine laufen sind:
-  - standardisiert (d.h. impoertierbar)
+  - standardisiert (d.h. importierbar)
   - effizient i.S.v. reduzierter Größe und nicht vorhandener Server Kosten
   - isoliert von anderen Containern
   
